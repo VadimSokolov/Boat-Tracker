@@ -1,0 +1,7 @@
+This is a GIS application which is to be used to track the boats by reading data from 
+
+http://gae.yb.tl/Flash/$RACENAME$/RaceSetup
+http://gae.yb.tl/Flash/$RACENAME$/CourseSetup
+http://gae.yb.tl/Flash/$RACENAME$/AllPositions
+http://gae.yb.tl/Flash/$RACENAME$/TeamSetup
+http://gae.yb.tl/Flash/$RACENAME$/LatestPositions
