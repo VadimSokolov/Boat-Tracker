@@ -1,0 +1,1 @@
+PYTHONPATH=c:\OSGeo4W\apps\qgis-dev\python

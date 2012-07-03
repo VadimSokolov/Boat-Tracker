@@ -1,0 +1,6 @@
+*.pyc
+build/
+data/
+dist/
+dist_working/
+.svn/
