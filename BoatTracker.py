@@ -120,6 +120,8 @@ class MainWindow(QtGui.QMainWindow, Ui_MainWindow):
         self.canvas.setLayerSet(layers)
           
         self.FillInBoatLayer()
+	def LoadLayerFromFile (self,path)
+		pass
     def FillInBoatLayer(self):
         # if not self.have_boat_layer:
             # return
